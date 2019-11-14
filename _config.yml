@@ -102,13 +102,13 @@ friends: [
         title: "",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书1·BY",
+        title: "",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-        title: "Apple2",
+        title: "",
         href: "https://apple.com"
     },{
-        title: "Apple Developer",
+        title: "",
         href: "https://developer.apple.com/"
     }
 ]
