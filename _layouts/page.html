@@ -180,7 +180,7 @@ layout: default
                             -->
                             {% endif %}
                             {% if site.github_username %}
-		            <!--
+		            <!--cr
                             <li>
                                 <a target="_blank" href="https://github.com/{{ site.github_username }}">
                                     <span class="fa-stack fa-lg">
@@ -193,15 +193,19 @@ layout: default
                             {% endif %}
                             
                         </ul>
+			<!--cr   
                         {% if site.email %}
                             <p>✉️ {{site.email}}</p>
                         {% endif %}
+                         -->
                     </div>
                 </section>
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
+		<!--cr    
                 <h5>FRIENDS123</h5>
+		-->    
                 <ul class="list-inline">
                     {% for friend in site.friends %}
                         <li><a href="{{friend.href}}">{{friend.title}}</a></li>
