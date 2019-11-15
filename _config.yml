@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
 keyword: "地下湖,储水式种植箱, 有机种植爱好者,吸水棉绳,懒人花盆"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://grecona.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
