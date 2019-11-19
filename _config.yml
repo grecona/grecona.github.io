@@ -96,7 +96,7 @@ service-worker: true
 
 
 
-# Friends123
+# Friends
 friends: [
     {
         title: "",
